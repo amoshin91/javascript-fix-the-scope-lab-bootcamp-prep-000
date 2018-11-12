@@ -32,5 +32,6 @@ var funkyFunction = function outsideFunk() {
 
 var theFunk = function () {
   return 
-  
 }
+
+console.log()
