@@ -34,4 +34,4 @@ var theFunk = function () {
   return 
 }
 
-console.log()
+console.log(funkyFunction())
